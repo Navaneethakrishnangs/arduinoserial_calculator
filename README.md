@@ -7,4 +7,5 @@ then press enter which will print the result in dispay
 you can connect hc05(bluetooth) module along with it
 connect tx of hc05 with rx of arduino
 and rx of hc05 to tx of arduino
+sample videos in https://drive.google.com/open?id=0B2HhiSArdJTYZ1lSOV8yZUhhRHc
 happy calculating!!!!!!
